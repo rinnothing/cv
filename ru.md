@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV - Максим Рыжевнин
 ---
-# Isaac Newton
+# Максим Рыжевнин
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
