@@ -3,89 +3,44 @@ layout: cv
 title: Maksim Ryzhevnin's CV
 ---
 # Maksim Ryzhevnin
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:maksimryzhevnin@gmail.com">maksimryzhevnin@gmail.com</a>
+| <a href="http://github.com/rinnothing">github.com/rinnothing</a> | <a href="tel:+79211863010">+7-921-186-30-10</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2023 - Jun 2027`
+__[ITMO University](https://en.itmo.ru/)__  
+_Bachelor of Science in [Computer technologies: programming and artificial intelligence](https://abit.itmo.ru/en/program/bachelor/programming)_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Projects
 
-- Sizar
+__[QT Minesweeper](https://sourceforge.net/p/qt-minesweeper/code/ci/main/tree/)__
+| _C++, QT_  
+* Developed Minesweeper game using QT Framework
 
-`1667 - death`
-__Trinity College, Cambridge__
+__[IntelliJ Pomodoro Plugin](https://github.com/rinnothing/intellij-pomodoro-plugin)__
+| _Java, IntelliJ Platform Plugin SDK_ 
+* Designed and Implemented an IntelliJ Platform Plugin to set timers or track time spent in editor 
 
-- Fellow
+__[PrintFile](https://sourceforge.net/p/labwork1-rinnothing/code/ci/deadline_0/tree/)__
+| _C++_ 
+* Developed a program to output a file content into command line. Program can output specific number of lines from the beginning or from the end of the file and use custom newline character based on flags 
 
+__[int2023\_t](https://sourceforge.net/p/labwork2-rinnothing/code/ci/deadline_1/tree/)__
+| _C++_ 
+* Implemented an integer signed type of 2023 bits, which supports basic mathematical operations (+, -, *, /), and can also be converted from int32\_t and from/to string 
 
+__[SandPile Model](https://sourceforge.net/p/labwork3-rinnothing/code/ci/deadline_1/tree/)__
+| _C++_ 
+* Developed [sand pile](https://en.wikipedia.org/wiki/Abelian_sandpile_model) simulator thar writes it status in [bmp format](https://en.wikipedia.org/wiki/BMP_file_format) and supports flags 
 
-## Awards
+__[Command Line Parser](https://sourceforge.net/p/labwork4-rinnothing/code/ci/deadline_1/tree/)__
+| _C++_ 
+* Designed and developed a library for parsing different types of command line arguments and flags 
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+__[3 dimension 17 bit array](https://sourceforge.net/p/labwork5-rinnothing/code/ci/deadline_1/tree/)__
+| _C++, Google C++ Testing Framework_
+* Implemented 3 dimension 17 bit array that supports multiplication by integer and arrays addition and substraction
