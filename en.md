@@ -13,6 +13,7 @@ title: Maksim Ryzhevnin's CV
 
 `Sep 2023 - Jun 2027`
 __[ITMO University](https://en.itmo.ru/)__  
+`St. Petersburg, Russia`
 _Bachelor of Science in [Computer technologies: programming and artificial intelligence](https://abit.itmo.ru/en/program/bachelor/programming)_
 
 ## Projects
@@ -44,3 +45,10 @@ __[Command Line Parser](https://sourceforge.net/p/labwork4-rinnothing/code/ci/de
 __[3 dimension 17 bit array](https://sourceforge.net/p/labwork5-rinnothing/code/ci/deadline_1/tree/)__
 | _C++, Google C++ Testing Framework_
 * Implemented 3 dimension 17 bit array that supports multiplication by integer and arrays addition and substraction
+
+## Technical Skills
+
+__Languages:__ C++, Go, Java, SQL  
+__Technologies:__ Google C++ Testing Framework, QT Framework, PostgreSQL  
+__Concepts:__ Encryption, Decryption, Agile Methodology, Scrum Framework, Computer Architecture, Relational Database  
+__Languages:__ English (fluent), Russian (native)  
