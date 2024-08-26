@@ -59,11 +59,14 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+
+	max-width: 100%;
+	overflow-x: hidden;
 }
 
 p {
 	position: relative;
-	left: 25%;
+	left: 15%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
@@ -80,14 +83,14 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -50%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 15%;
+	width: 60%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -124,7 +127,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 15%;
 }
 
 h1+p {
@@ -140,7 +143,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 h3 {
@@ -149,7 +152,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 a {
@@ -164,7 +167,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 15%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
