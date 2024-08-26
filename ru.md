@@ -1,91 +1,54 @@
 ---
 layout: cv
-title: CV - Максим Рыжевнин
+title: Максим Рыжевнин - CV
 ---
 # Максим Рыжевнин
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:maksimryzhevnin@gmail.com">maksimryzhevnin@gmail.com</a>
+| <a href="http://github.com/rinnothing">github.com/rinnothing</a> | <a href="tel:+79211863010">+7-921-186-30-10</a>
 </div>
 
+## Образование
 
-## Currently
+`Sep 2023 - Jun 2027`
+__[Университет ИТМО](https://itmo.ru/)__  
+`Санкт-Петербург, Россия`
+_Бакалавр программы [Компьютерные Технологии](https://abit.itmo.ru/program/bachelor/programming)_
 
-Standing on the shoulders of giants
+## Проекты
 
-### Specialized in
+__[QT Minesweeper](https://sourceforge.net/p/qt-minesweeper/code/ci/main/tree/)__
+| _C++, QT_  
+* Разработал игру Сапёр используя фреймворк QT
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__[IntelliJ Pomodoro Plugin](https://github.com/rinnothing/intellij-pomodoro-plugin)__
+| _Java, IntelliJ Platform Plugin SDK_ 
+* Спроектировал и внедрил плагин для IntelliJ Platform, позволяющий устанавливать таймеры и замерять время в редакторе кода 
 
+__[PrintFile](https://sourceforge.net/p/labwork1-rinnothing/code/ci/deadline_0/tree/)__
+| _C++_ 
+* Разработал программу выводящую содержимое файла в коммандную строку. Программа может выводить определённое количество строчек с начала или конца файла и использовать кастомный символ конца строки 
 
-### Research interests
+__[int2023\_t](https://sourceforge.net/p/labwork2-rinnothing/code/ci/deadline_1/tree/)__
+| _C++_ 
+* Внедрил целочисленный знаковый тип занимающий 2023 бита и поддерживающий базовые математические операции (+, -, *, /), конвертируемый из int32\_t и из/в string 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__[SandPile Model](https://sourceforge.net/p/labwork3-rinnothing/code/ci/deadline_1/tree/)__
+| _C++_ 
+* Разработал симулятор [песчаной кучи](https://en.wikipedia.org/wiki/Abelian_sandpile_model), записывающий свой статус в формате [bmp](https://en.wikipedia.org/wiki/BMP_file_format) и поддерживающий флаги 
 
+__[Command Line Parser](https://sourceforge.net/p/labwork4-rinnothing/code/ci/deadline_1/tree/)__
+| _C++_ 
+* Спроектировал и разработал библиотеку для парсинга различных видов аргументов и флагов командной строки 
 
-## Education
+__[3 dimension 17 bit array](https://sourceforge.net/p/labwork5-rinnothing/code/ci/deadline_1/tree/)__
+| _C++, Google C++ Testing Framework_
+* Внедрил 3 мерный 17 битный массив поддерживающий умножение на число и сложение и вычитание массивов
 
-`1654-1660`
-__The King's School, Grantham.__
+## Technical Skills
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+__Languages:__ C++, Go, Java, SQL  
+__Technologies:__ Google C++ Testing Framework, QT Framework, PostgreSQL  
+__Concepts:__ Encryption, Decryption, Agile Methodology, Scrum Framework, Computer Architecture, Relational Database  
+__Languages:__ English (fluent), Russian (native)  
