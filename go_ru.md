@@ -24,7 +24,7 @@ __[LFU Cache](https://sourceforge.net/p/lfu-cache/code/ci/main/tree/)__
 
 __[NekosAPI Wrapper](https://github.com/rinnothing/go-necos)__
 | _Go, HTTP, REST API, Open API_
-* Изучил устройство и работу протокола HTTP, а также принципы REST Api
+* Изучил устройство и работу протокола HTTP, а также принципы REST API
 * Прочитал документацию в формате Open API и разработал wrapper для Nekos API
 
 __[QT Minesweeper](https://sourceforge.net/p/qt-minesweeper/code/ci/main/tree/)__
