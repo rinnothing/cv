@@ -44,6 +44,6 @@ __[Command Line Parser](https://sourceforge.net/p/labwork4-rinnothing/code/ci/de
 ## Technical Skills
 
 __Languages:__ Go, C++, Java, SQL  
-__Technologies:__ HTTTP, Rest API, Open API, PostgreSQL, Google C++ Testing Framework  
-__Concepts:__ Computer Architecture, Relational Databases  
+__Technologies:__ gRPC, HTTTP, Rest API, Open API, PostgreSQL, Google C++ Testing Framework  
+__Concepts:__ Computer Architecture, Relational Databases, Clean Architecture  
 __Languages:__ English (fluent), Russian (native)  
