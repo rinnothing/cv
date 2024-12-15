@@ -27,6 +27,12 @@ __[NekosAPI Wrapper](https://github.com/rinnothing/go-necos)__
 * Изучил устройство и работу протокола HTTP, а также принципы REST API
 * Прочитал документацию в формате Open API и разработал wrapper для Nekos API
 
+__[gRPC Chat](https://github.com/rinnothing/grpc-chat)__
+| _Go, gRPC - in progress_
+* Следуя принципам чистой архитектуры написал сервер для обработки входящих сообщений gRPC
+* В планах - сделать обнаружение других клиентов в локальной сети, используя zeroconf
+* А также сделать хранилище сообщений в PostgreSQL
+
 __[QT Minesweeper](https://sourceforge.net/p/qt-minesweeper/code/ci/main/tree/)__
 | _C++, QT_  
 * Разработал игру Сапёр используя фреймворк QT
